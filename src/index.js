@@ -25,3 +25,20 @@ const person = {
   lastName: 'da Silva',
   age: 30,
 };
+
+/**
+ * Sum two numbers
+ * @param {number} x First Number
+ * @param {number} y Second Number
+ * @returns {number} numbers sum
+ */
+function add(x, y) {
+  return x + y;
+}
+
+/**
+ * Add five at number and return a string
+ * @param {number} number Number
+ * @returns {string} Number + 5
+ */
+const addTwo = (number) => `O resultado é ${number + 5}`;
