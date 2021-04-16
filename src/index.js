@@ -16,3 +16,12 @@ const scoresAndStrings = [10, '10'];
  * @type {Array<string>} */
 const users = ['João', 'Pedro', 'Maria'];
 users.push('Ana');
+
+/** object person
+ * @type {{ id: number | string, firstName: string, lastName: string, age: number }} */
+const person = {
+  id: 1,
+  firstName: 'João',
+  lastName: 'da Silva',
+  age: 30,
+};
