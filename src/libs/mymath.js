@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 
 /**
- * My math library
+ * My math library - Learn more {@tutorial second-tutorial}
  * @module mymath
  */
 

@@ -9,6 +9,7 @@
  * @see https://github.com/MarceloShirayama/jsdoc
  *
  * @todo Implement the rest of the methods
+ * @tutorial second-tutorial
  */
 class Programmer {
   /**
