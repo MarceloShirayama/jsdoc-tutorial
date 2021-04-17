@@ -29,6 +29,10 @@ class Programmer {
   }
 }
 
+/**
+ * Know more in {@link Programmer}
+ */
+
 const programmerOne = new Programmer({ name: 'João' }, 'Python');
 
 programmerOne.getInfo();
