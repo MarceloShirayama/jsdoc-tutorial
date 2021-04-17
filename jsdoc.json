@@ -19,6 +19,7 @@
     "destination": "./doc",
     "recurse": true,
     "template": "node_modules/tui-jsdoc-template",
-    "tutorials": "./tutorials"
+    "tutorials": "tutorials",
+    "readme": "./README.md"
   }
 }
